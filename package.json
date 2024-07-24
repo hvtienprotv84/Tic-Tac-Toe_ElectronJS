@@ -1,0 +1,14 @@
+{
+  "name": "huynhvinhtien-tic-tac-toe",
+  "version": "1.0.0",
+  "description": "pmscs-ju-course-project",
+  "main": "main.js",
+  "author": "HRahman1777",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^30.0.9"
+  }
+}
